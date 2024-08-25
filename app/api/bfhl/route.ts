@@ -17,9 +17,9 @@ export async function POST(req: NextRequest) {
 
         const response = {
             is_success: true,
-            user_id: "john_doe_17091999",
-            email: "john@xyz.com",
-            roll_number: "ABCD123",
+            user_id: "arjun_malhotra",
+            email: "arjun.malhotra2021@vitstudent.ac.in",
+            roll_number: "21BBS0110",
             numbers,
             alphabets,
             highest_lowercase_alphabet: highestLowercase,
